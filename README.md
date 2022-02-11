@@ -1,4 +1,4 @@
-# Cleanfolio
+# React Portfolio
 
 Forked repo from Raj Shekhar and used as a template for my own portfolio. [Cleanfolio Minimal](https://github.com/rajshekhar26/cleanfolio-minimal).
 
