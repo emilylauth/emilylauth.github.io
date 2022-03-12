@@ -33,7 +33,7 @@ const projects = [
   {
     name: 'Movie Tickets',
     description:
-      'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
+      'Simulation movie ticket selections from a movie theater.',
     stack: ['JavaScript', 'React', 'CSS'],
     sourceCode: 'https://github.com/emilylauth/Movie-Tickets',
     livePreview: 'https://emilylauth.github.io/Movie-Tickets/',
