@@ -60,11 +60,11 @@ const skills = [
   // skills can be added or removed
   // if there are no skills, Skills section won't show up
   'React',
+  'JavaScript',
   'HTML',
   'CSS',
-  'JavaScript',
   'Git',
-  'GraphQL',
+  'Node.js',
 ]
 
 const contact = {
