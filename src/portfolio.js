@@ -9,7 +9,7 @@ const header = {
 const about = {
   // all the properties are optional - can be left empty or deleted
   name: 'Emily Lauth',
-  role: 'Full Stack Developer',
+  role: 'Web Developer',
   description:
     'Welcome to my portfolio. I am a development student based in Salt Lake City, UT. Previously, I have been a photographer and photo editor in Chicago for 5 years. I received a Bachelor of Science degree in 2016 from Illinois State University, with focus in Interactive Media.',
   // resume: "https://example.com",
