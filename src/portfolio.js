@@ -11,7 +11,7 @@ const about = {
   name: "Emily Lauth",
   role: "Web Developer",
   description:
-    "Welcome to my portfolio. I am a development student based in Salt Lake City, UT. Previously, I have been a photographer and photo editor in Chicago for 5 years. I received a Bachelor of Science degree in 2016 from Illinois State University, with focus in Interactive Media.",
+    "Welcome to my portfolio. I am a development student based in Colorado Springs, CO. I received a Bachelor of Science degree in 2016 from Illinois State University, with focus in Interactive Media. I currently work as a photographer and photo editor. Learning development is a way for me to continue my advancement in the field of multimedia.",
   // resume: "https://example.com",
   social: {
     linkedin: "https://www.linkedin.com/in/emily-lauth/",
